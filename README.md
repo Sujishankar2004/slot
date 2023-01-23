@@ -111,10 +111,10 @@ Execute the program
 ```
 
 # OUTPUT
-![OUTPUT](http://suji2004.student.saveetha.in:8000/static/images/out(2).png?raw=true)
+![OUTPUT](http://sujishankar2004.student.saveetha.in:8000/static/images/out(2).png?raw=true)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://suji2004.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](http://sujishankar2004.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT
 the program for creating slot time table is completed successfully.
